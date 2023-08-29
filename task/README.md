@@ -6,6 +6,6 @@
     ```
 2. Перейдите в директорию проекта stocks_products, затем выполните:
     ```
-    docker-compose up -d --build .
+    docker-compose up --build -d
     ```
 
